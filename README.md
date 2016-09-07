@@ -57,6 +57,14 @@ Usage
        [XYQProgressHUD hideHUD];
     }
 
+
+how to use this API
+
+    1.下载源文件，导入工程文件
+    2.在需要用的地方导入头文件XYQProgress+XYQ.h
+    3.调用类方法使用即可
+
+
 Image
 
   ![image](https://github.com/xiayuanquan/XYQProgessHUD/blob/master/screenshots/failureImg.png)
