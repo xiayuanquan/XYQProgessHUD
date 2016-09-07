@@ -58,6 +58,7 @@ Usage
     }
 
 Image
+
   ![image](https://github.com/xiayuanquan/XYQProgessHUD/blob/master/screenshots/failureImg.png)
   ![image](https://github.com/xiayuanquan/XYQProgessHUD/blob/master/screenshots/messageImg.png)
   ![image](https://github.com/xiayuanquan/XYQProgessHUD/blob/master/screenshots/successImg.png)
