@@ -6,6 +6,6 @@ Pod::Spec.new do |s|
   s.license      = { :type => "MIT", :file => "LICENSE" }
   s.author             = { "xiayuanquan" => "1360074459@qq.com" }
   s.source       = { :git => "https://github.com/xiayuanquan/XYQProgessHUD.git", :tag => "0.0.1" }
-  s.source_files  = "*.{h,m}"
+  s.source_files  = "XYQProgressHUD.h,XYQProgressHUD.m,XYQProgressHUD+XYQ.h,XYQProgressHUD+XYQ.m"
   s.requires_arc = true
 end
