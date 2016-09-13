@@ -1,7 +1,8 @@
 # XYQProgessHUD
 提示框
+------
 
-API
+### API
 
     //显示框显示在指定View上
     + (void)showSuccess:(NSString *)success toView:(UIView *)view;
@@ -18,7 +19,7 @@ API
     + (void)hideHUDForView:(UIView *)view;
     + (void)hideHUD;
     
-Usage
+### Usage
 
     //显示出错
     -(void)showErrorState{
@@ -58,14 +59,14 @@ Usage
     }
 
 
-how to use this API
+### how to use this API
 
     1.下载源文件，导入工程文件
     2.在需要用的地方导入头文件XYQProgress+XYQ.h
     3.调用类方法使用即可
 
 
-Image
+### Image
 
   ![image](https://github.com/xiayuanquan/XYQProgessHUD/blob/master/screenshots/failureImg.png)
   ![image](https://github.com/xiayuanquan/XYQProgessHUD/blob/master/screenshots/messageImg.png)
